@@ -2,7 +2,6 @@
 I want to build a robot in which I will mix almost all the things I have learned at school and by myself
 
 Roadmap:
-
 -Obtaining the needed components in order to start building the robot-
 -Testing the motors through the motor driver TB6612FNG
 -Testing the optocouplers, useful for getting extra data from the motors/wheels...
